@@ -1,0 +1,35 @@
+try
+                {
+                    if (DatabaseConnection.adding == true)
+                    {
+                        dc.con.Open();
+                        string query = "insert into tblrequirement (event_id, rec_name, rec_desc, rec_type) Values ('" + txtEventId.Text + "','" + txtName.Text + "','" + txtDesc.Text + "','" + cmbType.Text + "')";
+                        cmd = new MySqlCommand(query, dc.con);
+                        if (cmd.ExecuteNonQuery() > 0)
+                        {
+                            MessageBox.Show("Requirement Added", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        }
+                    }
+                    else if (DatabaseConnection.updating == true)
+                    {
+                        dc.con.Open();
+                        string query = "update tblrequirement set rec_name = '" + txtName.Text + "', rec_desc = '" + txtDesc.Text + "', rec_type = '" + cmbType.Text + "' where rec_id = '"+ txtId.Text +"'";
+                 
+                        cmd = new MySqlCommand(query, dc.con);
+                        if (cmd.ExecuteNonQuery() > 0)
+                        {
+                            MessageBox.Show("Requirement Updatted", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        }
+                    }
+                }
+                catch (MySqlException ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+                finally
+                {
+                    cmd.Dispose();
+                    dc.con.Close();
+                }
+                this.DialogResult = DialogResult.OK;
+                this.Close();

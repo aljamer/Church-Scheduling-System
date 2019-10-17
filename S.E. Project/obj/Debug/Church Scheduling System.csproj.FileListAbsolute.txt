@@ -1,0 +1,47 @@
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\Church Scheduling System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\Church Scheduling System.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form11.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAboutUs.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMainPage.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmNewParticipant.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Home.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCollection.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\Church Scheduling System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\Church Scheduling System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\Church Scheduling System.csproj.CopyComplete
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\ChurchSchedulingSystem.Properties.Resources.resources
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\bin\Debug\Church Scheduling System.exe.config
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\bin\Debug\Church Scheduling System.exe
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\bin\Debug\Church Scheduling System.pdb
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\Church Scheduling System.exe
+C:\Users\User\Desktop\SE System Backup\S.E. Real Project\S.E. Project\obj\Debug\Church Scheduling System.pdb

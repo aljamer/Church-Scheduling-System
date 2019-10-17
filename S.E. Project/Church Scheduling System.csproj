@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{13371AC4-EB07-4378-AF9B-2565803B10EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ChurchSchedulingSystem</RootNamespace>
+    <AssemblyName>Church Scheduling System</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DatabaseConnection.cs" />
+    <Compile Include="Form11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11.Designer.cs">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutUs.Designer.cs">
+      <DependentUpon>frmAboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditEvent.Designer.cs">
+      <DependentUpon>frmAddEditEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditParicipant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditParicipant.Designer.cs">
+      <DependentUpon>frmAddEditParicipant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditSchedule.Designer.cs">
+      <DependentUpon>frmAddEditSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditStaff.designer.cs">
+      <DependentUpon>frmAddEditStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminMainPage.Designer.cs">
+      <DependentUpon>frmAdminMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewParticipant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewParticipant.Designer.cs">
+      <DependentUpon>frmNewParticipant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectPriest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectPriest.Designer.cs">
+      <DependentUpon>frmSelectPriest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectParticipant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectParticipant.Designer.cs">
+      <DependentUpon>frmSelectParticipant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPriestDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPriestDetails.Designer.cs">
+      <DependentUpon>frmPriestDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRequirement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRequirement.Designer.cs">
+      <DependentUpon>frmRequirement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectDate.Designer.cs">
+      <DependentUpon>frmSelectDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListSched.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListSched.Designer.cs">
+      <DependentUpon>frmListSched.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectApplicant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectApplicant.Designer.cs">
+      <DependentUpon>frmSelectApplicant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectEvent.Designer.cs">
+      <DependentUpon>frmSelectEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditRequirements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditRequirements.Designer.cs">
+      <DependentUpon>frmAddEditRequirements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditVenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditVenue.Designer.cs">
+      <DependentUpon>frmAddEditVenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminMain.Designer.cs">
+      <DependentUpon>frmAdminMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditApplicant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditApplicant.Designer.cs">
+      <DependentUpon>frmAddEditApplicant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectVenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectVenue.Designer.cs">
+      <DependentUpon>frmSelectVenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffMain.Designer.cs">
+      <DependentUpon>frmStaffMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucApplicant.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucApplicant.Designer.cs">
+      <DependentUpon>ucApplicant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCertificate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCertificate.Designer.cs">
+      <DependentUpon>ucCertificate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCollection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCollection.Designer.cs">
+      <DependentUpon>ucCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEvent.Designer.cs">
+      <DependentUpon>ucEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCalendar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCalendar.Designer.cs">
+      <DependentUpon>ucCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucSchedule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSchedule.Designer.cs">
+      <DependentUpon>ucSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucStaff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucStaff.Designer.cs">
+      <DependentUpon>ucStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucVenue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucVenue.Designer.cs">
+      <DependentUpon>ucVenue.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form11.resx">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAboutUs.resx">
+      <DependentUpon>frmAboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditEvent.resx">
+      <DependentUpon>frmAddEditEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditParicipant.resx">
+      <DependentUpon>frmAddEditParicipant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditSchedule.resx">
+      <DependentUpon>frmAddEditSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditStaff.resx">
+      <DependentUpon>frmAddEditStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminMainPage.resx">
+      <DependentUpon>frmAdminMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewParticipant.resx">
+      <DependentUpon>frmNewParticipant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectPriest.resx">
+      <DependentUpon>frmSelectPriest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectParticipant.resx">
+      <DependentUpon>frmSelectParticipant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPriestDetails.resx">
+      <DependentUpon>frmPriestDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRequirement.resx">
+      <DependentUpon>frmRequirement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectDate.resx">
+      <DependentUpon>frmSelectDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListSched.resx">
+      <DependentUpon>frmListSched.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectApplicant.resx">
+      <DependentUpon>frmSelectApplicant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectEvent.resx">
+      <DependentUpon>frmSelectEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditRequirements.resx">
+      <DependentUpon>frmAddEditRequirements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditVenue.resx">
+      <DependentUpon>frmAddEditVenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminMain.resx">
+      <DependentUpon>frmAdminMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditApplicant.resx">
+      <DependentUpon>frmAddEditApplicant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectVenue.resx">
+      <DependentUpon>frmSelectVenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffMain.resx">
+      <DependentUpon>frmStaffMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ucApplicant.resx">
+      <DependentUpon>ucApplicant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCertificate.resx">
+      <DependentUpon>ucCertificate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCollection.resx">
+      <DependentUpon>ucCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEvent.resx">
+      <DependentUpon>ucEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCalendar.resx">
+      <DependentUpon>ucCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSchedule.resx">
+      <DependentUpon>ucSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucStaff.resx">
+      <DependentUpon>ucStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucVenue.resx">
+      <DependentUpon>ucVenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\silpclogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arch logo.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

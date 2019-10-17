@@ -1,0 +1,596 @@
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E System\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E System\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmMain.resources
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E System\S.E. Project\S.E. Project\obj\Debug\GroceryOrderingSystem.frmEmployee.resources
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E System\S.E. Project\S.E. Project\obj\Debug\GroceryOrderingSystem.frmLogin.resources
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E System\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E System\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E System\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe.config
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\bin\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.CopyComplete
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E SYSTEM PROJECT\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmStaff.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe.config
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\bin\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmPriestMain.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.CopyComplete
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\bin\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\bin\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\S.E. RELATED FOLDER\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe.config
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\bin\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\bin\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\bin\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmPriestMain.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.CopyComplete
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.exe
+C:\Users\User\Desktop\PDF & World\S.E. Project\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe.config
+C:\Users\User\Desktop\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Project\S.E. Project\bin\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Project\S.E. Project\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\S.E. Project\S.E. Project\bin\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project\bin\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmPriestMain.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.CopyComplete
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form1.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe.config
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\Interop.MSACAL.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.exe
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.pdb
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\bin\Debug\S.E.Project.exe
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\bin\Debug\S.E.Project.pdb
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\bin\Debug\Google.Protobuf.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\bin\Debug\MySql.Data.xml
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\bin\Debug\Interop.MSACAL.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\bin\Debug\AxInterop.MSACAL.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csprojResolveAssemblyReference.cache
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form1.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmPriestMain.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.Cache
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\bin\Debug\S.E.Project.exe.config
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\Interop.MSACAL.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.exe
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.pdb
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\bin\Debug\S.E.Project.exe
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\bin\Debug\S.E.Project.pdb
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\bin\Debug\Google.Protobuf.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\bin\Debug\MySql.Data.xml
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\bin\Debug\Interop.MSACAL.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\bin\Debug\AxInterop.MSACAL.dll
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csprojResolveAssemblyReference.cache
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form1.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmPriestMain.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.Cache
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAboutUs.resources
+D:\BB files\SE 2 SYSTEM\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAdminMainPage.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\bin\Debug\S.E.Project.exe.config
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\bin\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\bin\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\bin\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\bin\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form1.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAboutUs.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAdminMainPage.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmPriestMain.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csproj.CopyComplete
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmNewParticipant.resources
+C:\Users\User\Desktop\S.E. Project\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Home.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\bin\Debug\S.E.Project.exe.config
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\Interop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.exe
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.pdb
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\bin\Debug\S.E.Project.exe
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\bin\Debug\S.E.Project.pdb
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\bin\Debug\Google.Protobuf.dll
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\bin\Debug\MySql.Data.xml
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\bin\Debug\Interop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\bin\Debug\AxInterop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csprojResolveAssemblyReference.cache
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form1.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAboutUs.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAdminMainPage.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmNewParticipant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmPriestMain.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Home.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+D:\BB files\SE 2 System New\S.E. Project V.2\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.Cache
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\bin\Debug\S.E.Project.exe.config
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\Interop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.exe
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.pdb
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\bin\Debug\S.E.Project.exe
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\bin\Debug\S.E.Project.pdb
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\bin\Debug\Google.Protobuf.dll
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\bin\Debug\MySql.Data.xml
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\bin\Debug\Interop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\bin\Debug\AxInterop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E. Project.csprojResolveAssemblyReference.cache
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.Form1.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmAboutUs.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmAdminMainPage.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmNewParticipant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmPriestMain.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.Home.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+D:\BB files\SE 2 System New\S.E. Project V.2 - Copy\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.Cache
+D:\BB files\SE 2 System New\S.E. Project Version 2\S.E. Project\bin\Debug\S.E.Project.exe.config
+D:\BB files\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\Interop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+D:\BB files\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+D:\BB files\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.exe
+D:\BB files\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\bin\Debug\S.E.Project.exe.config
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\bin\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\bin\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\bin\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\bin\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\Interop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\AxInterop.MSACAL.dll
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmAboutUs.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmAdminMainPage.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmNewParticipant.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmPriestMain.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.Home.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E. Project.csproj.CopyComplete
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.Form11.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E.Project.ucCollection.resources
+C:\Users\User\Desktop\S.E. Project\SE 2 System New\S.E. Project Version 2\S.E. Project\obj\Debug\S.E. Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\bin\Debug\S.E.Project.exe.config
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\bin\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\bin\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form11.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAboutUs.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMainPage.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmNewParticipant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Home.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCollection.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.CopyComplete
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\bin\Debug\S.E.Project.exe.config
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.exe
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csprojAssemblyReference.cache
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form11.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAboutUs.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMainPage.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmNewParticipant.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Home.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCollection.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\bin\Debug\S.E.Project.exe
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\bin\Debug\S.E.Project.pdb
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\Jhoey\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.CopyComplete
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\bin\Debug\S.E.Project.exe.config
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\bin\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\bin\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form11.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAboutUs.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form3.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form4.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditParicipant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditSchedule.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditStaff.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMainPage.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmLogin.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmNewParticipant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectPriest.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectParticipant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmPriestDetails.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmRequirement.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectDate.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Form2.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectApplicant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectEvent.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditRequirements.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditVenue.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAdminMain.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmAddEditApplicant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmSelectVenue.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.frmStaffMain.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Home.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.Properties.Resources.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucApplicant.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCertificate.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCollection.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucEvent.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucCalendar.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucSchedule.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucStaff.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.ucVenue.resources
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csproj.CopyComplete
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.exe
+C:\Users\User\Desktop\S.E. Real Project\S.E. Real Project\S.E. Project\obj\Debug\S.E.Project.pdb
+C:\Users\User\Desktop\S.E. Real Project\S.E. Project\obj\Debug\S.E. Project.csprojAssemblyReference.cache
